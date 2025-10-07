@@ -6,7 +6,7 @@
 
 ## Overview
 
-This project is a full-stack web application designed to streamline the real estate search and listing process. It enables property owners and agents to list properties, while potential tenants or buyers can explore and filter through listings based on various criteria, like location, price, and property type.
+
 
 ### Key Features
 
